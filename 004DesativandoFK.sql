@@ -3,13 +3,3 @@
 SET FOREIGN_KEY_CHECKS = 0;
 
 USE CLUBE_DO_LIVRO;
-
--- ID, NOME DO LIVRO, AUTORIA, EDITORA, CATEGORIA, PREÇO
-INSERT INTO LIVROS VALUES (
-1,
-"Percy Jackson e o Ladrão de Raios",
-"Rick Riordan",
-"Intrinseca",
-"Aventura",
-34.65);
-
